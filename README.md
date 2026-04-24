@@ -3,4 +3,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://nurulloasawear.github.io/snake-contribution/github-contribution-grid-snake.svg">
   <img alt="github contribution snake" src="https://nurulloasawear.github.io/snake-contribution/github-contribution-grid-snake.svg">
 </picture>
- 
+  
